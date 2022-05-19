@@ -1,6 +1,6 @@
 # docker-compose_wordpress-mysql
 
-Para realizar esta tarea, lo primero que he echo es crear el archivo ```docker-compose.yml``` con el siguiente contenido:
+Para realizar esta tarea, lo primero que he hecho es crear el archivo ```docker-compose.yml``` con el siguiente contenido:
 ![](imgs/contingutDockercompose.png)
 
 Gracias al docker compose podremos manejar varios contenedores a partir de un solo archivo de cofiguración.
